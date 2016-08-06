@@ -1,5 +1,11 @@
 # Tsung README
 
+## NOTICE
+
+Just add direct-ip support for http://tsung.erlang-projects.org/dist/tsung-1.6.0.tar.gz, that's all.
+
+More details : http://www.blogjava.net/yongboy/archive/2016/07/28/431354.html
+
 ##  Introduction
 
 This document gives pointers for information on this package which is
