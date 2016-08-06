@@ -1,0 +1,14 @@
+<footer class="bs-docs-footer" role="contentinfo">
+  <ul class="bs-docs-footer-links muted">
+    <li>Tsung version [% version %]</li>
+    <li><address>
+        Contact:   <a href="mailto:[% contact %]">[% contact %]</a>
+        </address>
+     </li>
+   </ul>
+</footer>
+ </div>
+ </div>
+</div>
+</body>
+</html>
